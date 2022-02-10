@@ -1,4 +1,4 @@
-# Trello Clone
+# Time Grid
 
 This is the official Repo from the Youtube Series "Let's Create a Trello Clone"
 
