@@ -1,6 +1,7 @@
 import { CONSTANTS } from "../actions";
 
 const initialState = null;
+const init 
 
 const activeBoardReducer = (state = initialState, action) => {
   switch (action.type) {
